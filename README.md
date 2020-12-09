@@ -14,6 +14,10 @@ or
 Download the Ludo excutable, go the file through the terminal and type the following command:
 `./Ludo` and the program will run
 
+# Platforms
+* Currently the executable works on mac
+* Need to test it on linux - might work
+* Need to test it on windows - doesn't work
 
 # Why did I make it ?
 Well I am currently taking a Introduction to C++ class, I already know everything in C++ that is being taught in the class but the professor hasn't uploaded any content for more than a month so this is one of the projects I created to keep my C++ skills sharp ⚔️
