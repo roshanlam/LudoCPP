@@ -21,3 +21,8 @@ Download the Ludo excutable, go the file through the terminal and type the follo
 
 # Why did I make it ?
 Well I am currently taking a Introduction to C++ class, I already know everything in C++ that is being taught in the class but the professor hasn't uploaded any content for more than a month so this is one of the projects I created to keep my C++ skills sharp ⚔️
+
+
+# Features
+
+Coming Soon, get this project to 100 stars and 10 forks then I will release an AI feature as well as other features for this game.
