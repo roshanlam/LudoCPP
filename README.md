@@ -6,7 +6,7 @@ If you don't know what the game is then click the link below to learn about the 
 https://en.wikipedia.org/wiki/Ludo_(board_game)
 
 
-# Installation To Play 
+# How To Play 
 Download the Ludo excutable file and then double click it to run it
 
 or 
